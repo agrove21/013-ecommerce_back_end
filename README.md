@@ -13,10 +13,10 @@ In this challenge, I built the back end for an e-commerce site. I took a working
 - [Questions](#questions)
 
 ## Installation
-To install, clone the repository and run npm install.
+To install, clone the repository and run `npm install`.
 
 ## Usage
-Run the application using npm start.
+Run the application using `npm run watch`.
 
 ## License
 This project is licensed under the MIT license.
@@ -25,7 +25,14 @@ This project is licensed under the MIT license.
 Welcome to Contribute! Fork the repository, create a new branch, and submit a pull request with your changes. Ensure your code adheres to the coding standards and is well-documented.
 
 ## Tests
-Test the application using jest.
+n/a
+
+## Walkthrough Video
+Watch the walkthrough video to see the application in action: [Watch Video](https://app.screencastify.com/v3/watch/nMRvsIc14Ywicsgp6Z2J)
+
+## Screenshot
+### File Structure
+<img src="assets/file structure.png" width="800px">
 
 ## Questions
 If you have any questions, you can reach me at [annhargrove21@gmail.com](mailto:annhargrove21@gmail.com). You can also find more of my work at [agrove21](https://github.com/agrove21).
